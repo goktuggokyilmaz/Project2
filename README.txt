@@ -10,5 +10,7 @@ function SetSpecularLight(param) {
     DrawScene();
 }
 
+2: I couldn't completed bonus part of this project
+
 Here is the github link for this project
 https://github.com/goktuggokyilmaz/Project2
